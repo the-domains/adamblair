@@ -1,0 +1,14 @@
+layout_spectrum: 0.12267355737276375
+typography_spectrum: 0.7394416958559304
+color:
+  brandStrength: 0.15350291039794683
+  lightness: 0.5949445497244596
+  saturation: 0.8137676462065428
+  rhythmicContrast: 0.37330440268851817
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+name: adamblair
